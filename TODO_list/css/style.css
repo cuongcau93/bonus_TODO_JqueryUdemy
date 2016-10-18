@@ -1,0 +1,22 @@
+.container{
+    margin: auto;
+}
+.add{
+    width: 100px;
+    background-color: green;
+    color: aliceblue;
+}
+.output{
+    width: 500px;
+    margin-left: 127px;;
+    margin-top: 5px;
+}
+
+#todo{
+    margin-left: 278px;;
+    color: red;
+}
+ul{
+    list-style-type: none;
+
+}
